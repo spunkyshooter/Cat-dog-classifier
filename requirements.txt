@@ -1,0 +1,6 @@
+numpy 			#for matrices calculations
+h5py 			#for dataset handling
+matplotlib 		#for ploting the images and charts
+pickle 			#for storing the parameters persistently
+gzip 			#for compressing
+opencv-python		#for reading and resizing the image
